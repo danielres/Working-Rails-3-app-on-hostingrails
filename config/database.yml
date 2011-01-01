@@ -2,18 +2,18 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: p42r0327_pZym
+  database: xxx
   pool: 5
-  username: p42r0327_pZym
-  password: 8ym9crw3
+  username: xxx
+  password: xxx
   socket: /tmp/mysql.sock
 
 development_test:
   adapter: mysql2
   encoding: utf8
-  database: p42r0327_test
-  username: p42r0327_test
-  password: test
+  database: xxx
+  username: xxx
+  password: xxx
 
 development:
   development_test
