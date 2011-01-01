@@ -4,4 +4,4 @@
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
 
-HowtosayRails3::Application.load_tasks
+App1::Application.load_tasks
